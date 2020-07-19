@@ -6,6 +6,8 @@ Blenderの「シェイプキーの転送」と同一の処理を行います。
 All Shapekeys Tranfer can transfer all shapekeys from target to source.  
 This Add-on is available between the objects which have same topology.  
 
+![アドオン画像](./Doc/all_shapekeys_transfer.jpg)
+
 ## 導入方法_Installation
 最新版ダウンロードは[こちら](https://github.com/3str6/all_shapekeys_transfer/releases/download/v1.0/all_shapekeys_transfer.zip)  
 1.編集 > プリファレンス... > アドオン > インストール > ダウンロードした.zipを選択します。  
