@@ -7,7 +7,7 @@ bl_info = {
     "warning": "",
     "support": "TESTING",
     "wiki_url": "https://github.com/3str6/all_shapekeys_transfer",
-    "category": "Development"
+    "category": "3D View"
 }
 
 import bpy
@@ -119,7 +119,7 @@ translation_dict = {
     "ja_JP": {
         ("*", "Target"): "ターゲット",
         ("*", "Source"): "ソース",
-        ("*", "Transfer Shapekeys"): "シェイプキーを転送",
+        ("*", "Transfer Shapekeys"): "シェイプキーの転送",
         ("*", "Topology is diffrent"): "トポロジーが異なっています",
         ("*", "There is no shapekeys in Source Object"): "ソースオブジェクトにシェイプキーが存在しません",
         ("*", "Transfer all shape keys from source to target"): "すべてのシェイプキーをソースからターゲットへ転送します",
